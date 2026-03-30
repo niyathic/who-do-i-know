@@ -3,7 +3,7 @@ Last updated April 2026. Created by @niyathic (GitHub).
 
 Go through someone's exported LinkedIn connections and output a file with just the connections whose companies are hiring for a particular role, and how many roles appeared with that company for your keywords.
 
--- BEFORE RUNNING THIS PROGRAM, ENSURE YOU: --
+-- BEFORE RUNNING who-do-i-know.py, ENSURE YOU: --
 
 1. Set the file path of the exported LinkedIn Connections file as 
 LI_CONNECTIONS_FILEPATH in the below config.
